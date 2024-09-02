@@ -26,7 +26,7 @@ function timeAndDate() {
 timeAndDate();
 setInterval(timeAndDate, 1000);
 
-const apiKey = "5f18ddb67367484598b6bf5c1915155d";
+const apiKey = "8a835bf963f6402e9700cf296387075c";
 // api link with the key
 const healthUrl = `https://newsapi.org/v2/everything?q=health&language=en&apiKey=${apiKey}`;
 
